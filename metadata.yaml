@@ -1,0 +1,37 @@
+_repo: With-Haig-on-the-Somme_26982
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Webb, Archibald
+    aliases:
+    - Webb, Archie
+    - Webb, Arch.
+    - Webb, A. B. (Archibald Bertram)
+    birthdate: 1887
+    deathdate: 1944
+    gutenberg_agent_id: '9893'
+    url: http://www.gutenberg.org/2009/agents/9893
+covers:
+- cover_type: archival
+  image_path: 26982-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parry, D. H.
+    gutenberg_agent_id: '32407'
+    url: http://www.gutenberg.org/2009/agents/32407
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26982'
+  lccn: '17027904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+title: With Haig on the Somme
+url: http://www.gutenberg.org/ebooks/26982
